@@ -1,5 +1,5 @@
 # Node.js dependencies
-node_modules/
+node_modules
 npm-debug.log
 yarn-error.log
 
@@ -16,6 +16,6 @@ debug.log
 Thumbs.db
 
 # Build files
-dist/
-build/
+dist
+build
 
